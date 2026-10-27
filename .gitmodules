@@ -1,3 +1,6 @@
 [submodule "AM264_Lab4"]
 	path = AM264_Lab4
 	url = https://github.com/shravaniprasadjoshi-hub/25_zombie_escape.git
+[submodule "AM264_Lab5"]
+	path = AM264_Lab5
+	url = https://github.com/shravaniprasadjoshi-hub/AM264_Lab5.git

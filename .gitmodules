@@ -7,3 +7,6 @@
 [submodule "AM264_Lab6"]
 	path = AM264_Lab6
 	url = https://github.com/shravaniprasadjoshi-hub/AM264_Lab6.git
+[submodule "AM264_Lab7"]
+	path = AM264_Lab7
+	url = https://github.com/shravaniprasadjoshi-hub/AM264_Lab7.git
